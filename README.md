@@ -13,7 +13,7 @@
 <!-- ░░░░░░░░░░░ SOCIAL + STATS BADGES ░░░░░░░░░░░ -->
 <p align="center">
   <a href="https://www.linkedin.com/in/pablo-de-franchi-3259573b0"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:pablo.defranchi@gmail.com"><img src="https://img.shields.io/badge/pablo.defranchi%40gmail.com-FF006E?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=pablo.defranchi@gmail.com" target="_blank"><img src="https://img.shields.io/badge/pablo.defranchi%40gmail.com-FF006E?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.google.com/maps/place/Zaragoza,+Spain/"><img src="https://img.shields.io/badge/Zaragoza,%20ES-7C3AED?style=for-the-badge&logo=googlemaps&logoColor=white" /></a>
   <img src="https://komarev.com/ghpvc/?username=Aiwe83&style=for-the-badge&color=00F0FF&label=PROFILE+VIEWS" />
 </p>
@@ -34,8 +34,12 @@
 </table>
 
 <p align="center">
-  <a href="mailto:pablo.defranchi@gmail.com?subject=%F0%9F%9A%80%20Proyecto%20%E2%80%94%20me%20gustar%C3%ADa%20hablar%20contigo&body=Hola%20Pablo%2C%0A%0ATe%20escribo%20porque%20quiero%20contarte%20sobre%20un%20proyecto.%0A%0A%E2%80%A2%20Qu%C3%A9%20es%3A%20%0A%E2%80%A2%20Plazos%20%2F%20fecha%20deseada%3A%20%0A%E2%80%A2%20Presupuesto%20aproximado%3A%20%0A%E2%80%A2%20C%C3%B3mo%20me%20contactas%3A%20%0A%0AGracias!"><img src="https://img.shields.io/badge/%E2%9A%A1%20Got%20a%20project%3F%20Let's%20talk-FF006E?style=for-the-badge&labelColor=0D1117" /></a>
-  <a href="https://www.linkedin.com/in/pablo-de-franchi-3259573b0"><img src="https://img.shields.io/badge/%E2%9C%A6%20Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&labelColor=0D1117" /></a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=pablo.defranchi@gmail.com&su=%F0%9F%9A%80%20Proyecto%20%E2%80%94%20me%20gustar%C3%ADa%20hablar%20contigo&body=Hola%20Pablo%2C%0A%0ATe%20escribo%20porque%20quiero%20contarte%20sobre%20un%20proyecto.%0A%0A%E2%80%A2%20Qu%C3%A9%20es%3A%20%0A%E2%80%A2%20Plazos%20%2F%20fecha%20deseada%3A%20%0A%E2%80%A2%20Presupuesto%20aproximado%3A%20%0A%E2%80%A2%20C%C3%B3mo%20me%20contactas%3A%20%0A%0AGracias!" target="_blank">
+    <img src="https://capsule-render.vercel.app/api?type=soft&color=0:FF006E,100:7C3AED&height=80&section=header&text=%E2%9A%A1%20Got%20a%20project%3F%20Let's%20talk&fontSize=20&fontColor=ffffff&fontAlignY=50&desc=Click+%E2%86%92+opens+Gmail+with+a+pre-filled+message&descSize=11&descAlignY=78" width="46%" alt="got-a-project" />
+  </a>
+  <a href="https://www.linkedin.com/in/pablo-de-franchi-3259573b0" target="_blank">
+    <img src="https://capsule-render.vercel.app/api?type=soft&color=0:0A66C2,100:00F0FF&height=80&section=header&text=%E2%9C%A6%20Connect%20on%20LinkedIn&fontSize=20&fontColor=ffffff&fontAlignY=50&desc=Click+%E2%86%92+opens+my+LinkedIn+profile&descSize=11&descAlignY=78" width="46%" alt="linkedin-cta" />
+  </a>
 </p>
 
 ---
@@ -148,7 +152,7 @@
 
 <p align="center">
   <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aiwe83&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=ffffff&cache_seconds=86400" />
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Aiwe83&theme=tokyonight&utcOffset=2" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Aiwe83&theme=radical&utcOffset=2" />
 </p>
 
 <p align="center">
@@ -180,7 +184,7 @@
 </p>
 
 <p align="center">
-  <a href="mailto:pablo.defranchi@gmail.com?subject=%F0%9F%91%8B%20Hola%20Pablo&body=Hola%20Pablo%2C%0A%0ATe%20escribo%20desde%20tu%20perfil%20de%20GitHub.%20Quer%C3%ADa%20contactar%20contigo%20porque%E2%80%A6%0A%0A%5Bcu%C3%A9ntame%20aqu%C3%AD%5D%0A%0AUn%20saludo!"><img src="https://img.shields.io/badge/%E2%9A%A1%20Let's%20talk-FF006E?style=for-the-badge&labelColor=0D1117" /></a>
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=pablo.defranchi@gmail.com&su=%F0%9F%91%8B%20Hola%20Pablo&body=Hola%20Pablo%2C%0A%0ATe%20escribo%20desde%20tu%20perfil%20de%20GitHub.%20Quer%C3%ADa%20contactar%20contigo%20porque%E2%80%A6%0A%0A%5Bcu%C3%A9ntame%20aqu%C3%AD%5D%0A%0AUn%20saludo!" target="_blank"><img src="https://img.shields.io/badge/%E2%9A%A1%20Let's%20talk-FF006E?style=for-the-badge&labelColor=0D1117" /></a>
   <a href="https://www.linkedin.com/in/pablo-de-franchi-3259573b0"><img src="https://img.shields.io/badge/%E2%9C%A6%20LinkedIn-0A66C2?style=for-the-badge&labelColor=0D1117" /></a>
   <a href="https://github.com/Aiwe83"><img src="https://img.shields.io/github/followers/Aiwe83?style=for-the-badge&logo=github&logoColor=00F0FF&labelColor=0D1117&color=0D1117&label=%E2%98%85%20Follow" /></a>
 </p>
