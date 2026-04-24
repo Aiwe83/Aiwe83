@@ -12,7 +12,7 @@
 
 <!-- ░░░░░░░░░░░ SOCIAL + STATS BADGES ░░░░░░░░░░░ -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/pablo-de-franchi-15b990279"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/pablo-de-franchi-3259573b0"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:pablo.defranchi@gmail.com"><img src="https://img.shields.io/badge/Email-FF006E?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <img src="https://img.shields.io/badge/Zaragoza,%20ES-7C3AED?style=for-the-badge&logo=googlemaps&logoColor=white" />
   <img src="https://komarev.com/ghpvc/?username=Aiwe83&style=for-the-badge&color=00F0FF&label=PROFILE+VIEWS" />
@@ -35,7 +35,7 @@
 
 <p align="center">
   <a href="mailto:pablo.defranchi@gmail.com"><img src="https://img.shields.io/badge/%E2%9A%A1%20Got%20a%20project%3F%20Let's%20talk-FF006E?style=for-the-badge&labelColor=0D1117" /></a>
-  <a href="https://www.linkedin.com/in/pablo-de-franchi-15b990279"><img src="https://img.shields.io/badge/%E2%9C%A6%20Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&labelColor=0D1117" /></a>
+  <a href="https://www.linkedin.com/in/pablo-de-franchi-3259573b0"><img src="https://img.shields.io/badge/%E2%9C%A6%20Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&labelColor=0D1117" /></a>
 </p>
 
 ---
@@ -71,21 +71,71 @@
 ## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="28"> Featured projects
 
 <p align="center">
-  <a href="https://github.com/Aiwe83/projects">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aiwe83&repo=projects&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=FF006E&text_color=ffffff&cache_seconds=86400" />
-  </a>
-  <a href="https://github.com/Aiwe83/finanzas-hogar">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aiwe83&repo=finanzas-hogar&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=FF006E&text_color=ffffff&cache_seconds=86400" />
-  </a>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2500&pause=800&color=FF006E&center=true&vCenter=true&width=700&lines=%E2%86%B3+Selected+work+%C2%B7+side+projects+%26+experiments;%E2%86%B3+Click+any+card+to+explore+the+repo;%E2%86%B3+More+coming+soon+%E2%80%94+stay+tuned" alt="projects-tagline" />
 </p>
-<p align="center">
-  <a href="https://github.com/Aiwe83/First-Jupyter-Notebook">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aiwe83&repo=First-Jupyter-Notebook&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=FF006E&text_color=ffffff&cache_seconds=86400" />
-  </a>
-  <a href="https://github.com/Aiwe83/Second-Jupyter-Notebook">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aiwe83&repo=Second-Jupyter-Notebook&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=FF006E&text_color=ffffff&cache_seconds=86400" />
-  </a>
-</p>
+
+<table align="center" border="0">
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Aiwe83/finanzas-hogar">
+        <img src="https://capsule-render.vercel.app/api?type=soft&color=0:00F0FF,100:7C3AED&height=80&section=header&text=finanzas-hogar&fontSize=22&fontColor=ffffff&fontAlignY=45&desc=Dashboard+de+finanzas+del+hogar&descSize=13&descAlignY=78" width="100%" alt="finanzas-hogar" />
+      </a>
+      <p align="center">
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+        <img src="https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/localStorage-0D1117?style=flat-square&logo=databricks&logoColor=00F0FF" />
+      </p>
+      <p align="center">
+        <a href="https://github.com/Aiwe83/finanzas-hogar"><img src="https://img.shields.io/badge/%E2%86%92%20View%20code-0D1117?style=for-the-badge&logo=github&logoColor=00F0FF&labelColor=0D1117" /></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Aiwe83/Second-Jupyter-Notebook">
+        <img src="https://capsule-render.vercel.app/api?type=soft&color=0:7C3AED,100:FF006E&height=80&section=header&text=Second-Jupyter-Notebook&fontSize=18&fontColor=ffffff&fontAlignY=45&desc=Ejercicios+de+Web+Scraping&descSize=13&descAlignY=78" width="100%" alt="Second-Jupyter-Notebook" />
+      </a>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
+        <img src="https://img.shields.io/badge/BeautifulSoup-4B8BBE?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Requests-20232A?style=flat-square&logo=python&logoColor=white" />
+      </p>
+      <p align="center">
+        <a href="https://github.com/Aiwe83/Second-Jupyter-Notebook"><img src="https://img.shields.io/badge/%E2%86%92%20View%20code-0D1117?style=for-the-badge&logo=github&logoColor=00F0FF&labelColor=0D1117" /></a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Aiwe83/First-Jupyter-Notebook">
+        <img src="https://capsule-render.vercel.app/api?type=soft&color=0:FF006E,100:00F0FF&height=80&section=header&text=First-Jupyter-Notebook&fontSize=18&fontColor=ffffff&fontAlignY=45&desc=Aprendiendo+Jupyter+%26+Python&descSize=13&descAlignY=78" width="100%" alt="First-Jupyter-Notebook" />
+      </a>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
+        <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+        <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+      </p>
+      <p align="center">
+        <a href="https://github.com/Aiwe83/First-Jupyter-Notebook"><img src="https://img.shields.io/badge/%E2%86%92%20View%20code-0D1117?style=for-the-badge&logo=github&logoColor=00F0FF&labelColor=0D1117" /></a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Aiwe83">
+        <img src="https://capsule-render.vercel.app/api?type=soft&color=0:00F0FF,50:7C3AED,100:FF006E&height=80&section=header&text=Next+project&fontSize=22&fontColor=ffffff&fontAlignY=45&desc=Coming+soon+%E2%80%A2+stay+tuned&descSize=13&descAlignY=78" width="100%" alt="coming-soon" />
+      </a>
+      <p align="center">
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
+        <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white" />
+      </p>
+      <p align="center">
+        <a href="https://github.com/Aiwe83"><img src="https://img.shields.io/badge/%E2%98%85%20Follow%20for%20updates-0D1117?style=for-the-badge&logo=github&logoColor=FF006E&labelColor=0D1117" /></a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
