@@ -1,21 +1,95 @@
+<!-- ░░░░░░░░░░░ HEADER BANNER ░░░░░░░░░░░ -->
+<a href="https://github.com/Aiwe83">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,50:7C3AED,100:FF006E&height=240&section=header&text=Pablo%20De%20Franchi&fontSize=68&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=Founder%20%26%20CTO%20%40%20Defranchi%20Tech&descAlignY=58&descSize=18" width="100%" alt="header" />
+</a>
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/linkedin.com/in/pablo-defranchi-fernandez-b0a669185) 
+<!-- ░░░░░░░░░░░ TYPING TAGLINE ░░░░░░░░░░░ -->
+<p align="center">
+  <a href="https://github.com/Aiwe83">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=700&color=00F0FF&center=true&vCenter=true&width=760&lines=Shipping+products+at+Defranchi+Tech;Full-Stack+%E2%80%A2+TypeScript+%E2%80%A2+Node+%E2%80%A2+React;Cloud+Native+%E2%80%A2+AWS+%E2%80%A2+Docker+%E2%80%A2+Postgres;Always+shipping.+Always+learning." alt="typing" />
+  </a>
+</p>
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Jenkins](https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Aiwe83&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Aiwe83&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Aiwe83&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Aiwe83&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+<!-- ░░░░░░░░░░░ SOCIAL + STATS BADGES ░░░░░░░░░░░ -->
+<p align="center">
+  <a href="https://www.linkedin.com/in/pablo-de-franchi-3259573b0"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:pablo.defranchi@gmail.com"><img src="https://img.shields.io/badge/Email-FF006E?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <img src="https://img.shields.io/badge/Zaragoza,%20ES-7C3AED?style=for-the-badge&logo=googlemaps&logoColor=white" />
+  <img src="https://komarev.com/ghpvc/?username=Aiwe83&style=for-the-badge&color=00F0FF&label=PROFILE+VIEWS" />
+</p>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Aiwe83&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About me
+
+```ts
+const pablo = {
+  role:        "Founder & CTO @ Defranchi Tech",
+  based_in:    "Zaragoza, Spain",
+  focus:       ["SaaS platforms", "AI-driven workflows", "DX"],
+  current:     "Building an Employee Management Platform",
+  stack:       ["TypeScript", "Node", "React", "Next.js", "PostgreSQL", "AWS"],
+  philosophy:  "ship small, ship safe, ship every day",
+  open_to:     ["collaborations", "consulting", "interesting bugs"],
+};
+```
+
+---
+
+## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="28"> Tech stack
+
+<p align="center">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
+  <img src="https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white" />
+  <br/>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
+  <img src="https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" />
+  <br/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" />
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
+</p>
+
+---
+
+## <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="32"> GitHub stats
+
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Aiwe83&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=FF006E&text_color=ffffff" />
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com?user=Aiwe83&theme=tokyonight&hide_border=true&background=0D1117&ring=00F0FF&fire=FF006E&currStreakLabel=00F0FF" />
+</p>
+
+<p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aiwe83&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=ffffff&langs_count=8" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Aiwe83&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aiwe83&theme=tokyo-night&bg_color=0D1117&hide_border=true&line=00F0FF&color=FF006E&point=7C3AED" />
+</p>
+
+---
+
+## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="28"> Contribution snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Aiwe83/Aiwe83/output/github-snake-dark.svg" alt="snake" />
+</p>
+
+<!-- ░░░░░░░░░░░ FOOTER ░░░░░░░░░░░ -->
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF006E,50:7C3AED,100:00F0FF&height=120&section=footer" width="100%" alt="footer" />
