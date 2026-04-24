@@ -28,7 +28,7 @@
       <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2800&pause=900&color=00F0FF&background=0D111700&center=false&vCenter=true&width=560&height=240&lines=%3E+Hey%2C+I'm+Pablo+De+Franchi;%3E+Full-Stack+Web+Developer;%3E+Based+in+Zaragoza+%C2%B7+Spain;%3E+Stack%3A+TS+%2F+React+%2F+Node+%2F+Postgres+%2F+AWS;%3E+2%2B+years+shipping+modern+web+apps;%3E+Currently+leveling+up+in+system+design;%3E+Open+to+new+opportunities+%C2%B7+let's+talk" alt="about-me" />
     </td>
     <td align="center" valign="middle" width="40%">
-      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="terminal" />
+      <img src="https://raw.githubusercontent.com/Aiwe83/Aiwe83/main/assets/dev-terminal.svg" width="280" alt="terminal" />
     </td>
   </tr>
 </table>
