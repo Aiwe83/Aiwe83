@@ -147,7 +147,16 @@
 </p>
 
 <p align="center">
+  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aiwe83&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=ffffff&cache_seconds=86400" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Aiwe83&theme=tokyonight&utcOffset=2" />
+</p>
+
+<p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aiwe83&theme=tokyo-night&bg_color=0D1117&hide_border=true&line=00F0FF&color=FF006E&point=7C3AED" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=Aiwe83&theme=tokyonight&no-bg=true&no-frame=true&margin-w=8&margin-h=8&column=7" alt="trophies" />
 </p>
 
 ---
@@ -155,8 +164,30 @@
 ## <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="28"> Contribution snake
 
 <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2800&pause=900&color=7C3AED&center=true&vCenter=true&width=640&lines=%F0%9F%90%8D+Watch+my+commits+get+eaten%2C+one+square+at+a+time;%E2%9A%A1+Auto-refreshed+daily+via+GitHub+Actions" alt="snake-tagline" />
+</p>
+
+<p align="center">
   <img src="https://raw.githubusercontent.com/Aiwe83/Aiwe83/output/github-snake-dark.svg" alt="snake" />
 </p>
 
+---
+
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="28"> Currently
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2800&pause=900&color=00F0FF&center=true&vCenter=true&width=780&lines=%F0%9F%9A%80+Building%3A+new+web+projects+with+TypeScript+%2B+Next.js;%F0%9F%93%9A+Leveling+up%3A+system+design+%26+scalable+architectures;%F0%9F%8C%8D+Based+in+Zaragoza+%C2%B7+remote-first+%C2%B7+GMT%2B2;%F0%9F%92%BC+Open+to%3A+collaborations%2C+freelance+%26+full-time+roles;%E2%98%95+Always+shipping.+Always+learning." alt="currently" />
+</p>
+
+<p align="center">
+  <a href="mailto:pablo.defranchi@gmail.com"><img src="https://img.shields.io/badge/%E2%9A%A1%20Let's%20talk-FF006E?style=for-the-badge&labelColor=0D1117" /></a>
+  <a href="https://www.linkedin.com/in/pablo-de-franchi-3259573b0"><img src="https://img.shields.io/badge/%E2%9C%A6%20LinkedIn-0A66C2?style=for-the-badge&labelColor=0D1117" /></a>
+  <a href="https://github.com/Aiwe83"><img src="https://img.shields.io/badge/%E2%98%85%20Follow-0D1117?style=for-the-badge&logo=github&logoColor=00F0FF&labelColor=0D1117" /></a>
+</p>
+
 <!-- ░░░░░░░░░░░ FOOTER ░░░░░░░░░░░ -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3200&pause=1200&color=FF006E&center=true&vCenter=true&width=520&lines=%E2%9C%A6+Thanks+for+scrolling+%E2%9C%A6;%E2%9A%A1+Let's+build+something+together" alt="footer-typing" />
+</p>
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF006E,50:7C3AED,100:00F0FF&height=120&section=footer" width="100%" alt="footer" />
