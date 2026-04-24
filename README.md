@@ -12,7 +12,7 @@
 
 <!-- ░░░░░░░░░░░ SOCIAL + STATS BADGES ░░░░░░░░░░░ -->
 <p align="center">
-  <a href="https://www.linkedin.com/in/pablo-de-franchi-3259573b0"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/pablo-de-franchi-15b990279"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:pablo.defranchi@gmail.com"><img src="https://img.shields.io/badge/Email-FF006E?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <img src="https://img.shields.io/badge/Zaragoza,%20ES-7C3AED?style=for-the-badge&logo=googlemaps&logoColor=white" />
   <img src="https://komarev.com/ghpvc/?username=Aiwe83&style=for-the-badge&color=00F0FF&label=PROFILE+VIEWS" />
@@ -64,19 +64,32 @@ const pablo = {
 
 ---
 
+## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="28"> Featured projects
+
+<p align="center">
+  <a href="https://github.com/Aiwe83/projects">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aiwe83&repo=projects&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=FF006E&text_color=ffffff&cache_seconds=86400" />
+  </a>
+  <a href="https://github.com/Aiwe83/finanzas-hogar">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aiwe83&repo=finanzas-hogar&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=FF006E&text_color=ffffff&cache_seconds=86400" />
+  </a>
+</p>
+<p align="center">
+  <a href="https://github.com/Aiwe83/First-Jupyter-Notebook">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aiwe83&repo=First-Jupyter-Notebook&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=FF006E&text_color=ffffff&cache_seconds=86400" />
+  </a>
+  <a href="https://github.com/Aiwe83/Second-Jupyter-Notebook">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Aiwe83&repo=Second-Jupyter-Notebook&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=FF006E&text_color=ffffff&cache_seconds=86400" />
+  </a>
+</p>
+
+---
+
 ## <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="32"> GitHub stats
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Aiwe83&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=FF006E&text_color=ffffff" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Aiwe83&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=FF006E&text_color=ffffff&cache_seconds=86400" />
   <img height="180" src="https://github-readme-streak-stats.herokuapp.com?user=Aiwe83&theme=tokyonight&hide_border=true&background=0D1117&ring=00F0FF&fire=FF006E&currStreakLabel=00F0FF" />
-</p>
-
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aiwe83&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=ffffff&langs_count=8" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Aiwe83&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=8" />
 </p>
 
 <p align="center">
