@@ -1,12 +1,12 @@
 <!-- ░░░░░░░░░░░ HEADER BANNER ░░░░░░░░░░░ -->
 <a href="https://github.com/Aiwe83">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,50:7C3AED,100:FF006E&height=240&section=header&text=Pablo%20De%20Franchi&fontSize=68&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=Founder%20%26%20CTO%20%40%20Defranchi%20Tech&descAlignY=58&descSize=18" width="100%" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,50:7C3AED,100:FF006E&height=240&section=header&text=Pablo%20De%20Franchi&fontSize=68&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=Full-Stack%20Web%20Developer%20%C2%B7%20Zaragoza%2C%20Spain&descAlignY=58&descSize=18" width="100%" alt="header" />
 </a>
 
 <!-- ░░░░░░░░░░░ TYPING TAGLINE ░░░░░░░░░░░ -->
 <p align="center">
   <a href="https://github.com/Aiwe83">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=700&color=00F0FF&center=true&vCenter=true&width=760&lines=Shipping+products+at+Defranchi+Tech;Full-Stack+%E2%80%A2+TypeScript+%E2%80%A2+Node+%E2%80%A2+React;Cloud+Native+%E2%80%A2+AWS+%E2%80%A2+Docker+%E2%80%A2+Postgres;Always+shipping.+Always+learning." alt="typing" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=2800&pause=700&color=00F0FF&center=true&vCenter=true&width=760&lines=Full-Stack+Web+Developer+based+in+Zaragoza;TypeScript+%E2%80%A2+React+%E2%80%A2+Node+%E2%80%A2+Postgres+%E2%80%A2+AWS;Crafting+modern+web+apps+%26+side+projects;Always+shipping.+Always+learning." alt="typing" />
   </a>
 </p>
 
@@ -24,13 +24,13 @@
 
 ```ts
 const pablo = {
-  role:        "Founder & CTO @ Defranchi Tech",
+  role:        "Full-Stack Web Developer",
   based_in:    "Zaragoza, Spain",
-  focus:       ["SaaS platforms", "AI-driven workflows", "DX"],
-  current:     "Building an Employee Management Platform",
-  stack:       ["TypeScript", "Node", "React", "Next.js", "PostgreSQL", "AWS"],
+  experience:  "2+ years building web apps",
+  stack:       ["TypeScript", "React", "Node", "Next.js", "PostgreSQL", "AWS"],
+  learning:    ["System design", "Cloud architecture", "AI integrations"],
   philosophy:  "ship small, ship safe, ship every day",
-  open_to:     ["collaborations", "consulting", "interesting bugs"],
+  open_to:     ["job opportunities", "freelance", "open-source"],
 };
 ```
 
