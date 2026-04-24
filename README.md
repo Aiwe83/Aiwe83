@@ -22,17 +22,21 @@
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> About me
 
-```ts
-const pablo = {
-  role:        "Full-Stack Web Developer",
-  based_in:    "Zaragoza, Spain",
-  experience:  "2+ years building web apps",
-  stack:       ["TypeScript", "React", "Node", "Next.js", "PostgreSQL", "AWS"],
-  learning:    ["System design", "Cloud architecture", "AI integrations"],
-  philosophy:  "ship small, ship safe, ship every day",
-  open_to:     ["job opportunities", "freelance", "open-source"],
-};
-```
+<table align="center" border="0">
+  <tr>
+    <td valign="middle" width="60%">
+      <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2800&pause=900&color=00F0FF&background=0D111700&center=false&vCenter=true&width=560&height=240&lines=%3E+Hey%2C+I'm+Pablo+De+Franchi;%3E+Full-Stack+Web+Developer;%3E+Based+in+Zaragoza+%C2%B7+Spain;%3E+Stack%3A+TS+%2F+React+%2F+Node+%2F+Postgres+%2F+AWS;%3E+2%2B+years+shipping+modern+web+apps;%3E+Currently+leveling+up+in+system+design;%3E+Open+to+new+opportunities+%C2%B7+let's+talk" alt="about-me" />
+    </td>
+    <td align="center" valign="middle" width="40%">
+      <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="280" alt="terminal" />
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <a href="mailto:pablo.defranchi@gmail.com"><img src="https://img.shields.io/badge/%E2%9A%A1%20Got%20a%20project%3F%20Let's%20talk-FF006E?style=for-the-badge&labelColor=0D1117" /></a>
+  <a href="https://www.linkedin.com/in/pablo-de-franchi-15b990279"><img src="https://img.shields.io/badge/%E2%9C%A6%20Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&labelColor=0D1117" /></a>
+</p>
 
 ---
 
