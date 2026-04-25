@@ -80,9 +80,9 @@
 
 <table align="center" border="0">
   <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <a href="https://github.com/Aiwe83/finanzas-hogar">
-        <img src="https://capsule-render.vercel.app/api?type=soft&color=0:00F0FF,100:7C3AED&height=80&section=header&text=finanzas-hogar&fontSize=22&fontColor=ffffff&fontAlignY=45&desc=Dashboard+de+finanzas+del+hogar&descSize=13&descAlignY=78" width="100%" alt="finanzas-hogar" />
+        <img src="https://capsule-render.vercel.app/api?type=soft&color=0:00F0FF,100:7C3AED&height=80&section=header&text=finanzas-hogar&fontSize=20&fontColor=ffffff&fontAlignY=45&desc=Dashboard+de+finanzas+del+hogar&descSize=12&descAlignY=78" width="100%" alt="finanzas-hogar" />
       </a>
       <p align="center">
         <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
@@ -91,12 +91,13 @@
         <img src="https://img.shields.io/badge/localStorage-0D1117?style=flat-square&logo=databricks&logoColor=00F0FF" />
       </p>
       <p align="center">
-        <a href="https://github.com/Aiwe83/finanzas-hogar"><img src="https://img.shields.io/badge/%E2%86%92%20View%20code-0D1117?style=for-the-badge&logo=github&logoColor=00F0FF&labelColor=0D1117" /></a>
+        <a href="https://gorgeous-cocada-43a7e4.netlify.app"><img src="https://img.shields.io/badge/%E2%97%89%20Live%20demo-00F0FF?style=for-the-badge&logo=netlify&logoColor=0D1117&labelColor=0D1117" /></a>
+        <a href="https://github.com/Aiwe83/finanzas-hogar"><img src="https://img.shields.io/badge/%E2%86%92%20Code-0D1117?style=for-the-badge&logo=github&logoColor=00F0FF&labelColor=0D1117" /></a>
       </p>
     </td>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <a href="https://github.com/Aiwe83/Second-Jupyter-Notebook">
-        <img src="https://capsule-render.vercel.app/api?type=soft&color=0:7C3AED,100:FF006E&height=80&section=header&text=Second-Jupyter-Notebook&fontSize=18&fontColor=ffffff&fontAlignY=45&desc=Ejercicios+de+Web+Scraping&descSize=13&descAlignY=78" width="100%" alt="Second-Jupyter-Notebook" />
+        <img src="https://capsule-render.vercel.app/api?type=soft&color=0:7C3AED,100:FF006E&height=80&section=header&text=Second-Jupyter-Notebook&fontSize=16&fontColor=ffffff&fontAlignY=45&desc=Ejercicios+de+Web+Scraping&descSize=12&descAlignY=78" width="100%" alt="Second-Jupyter-Notebook" />
       </a>
       <p align="center">
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
@@ -105,14 +106,12 @@
         <img src="https://img.shields.io/badge/Requests-20232A?style=flat-square&logo=python&logoColor=white" />
       </p>
       <p align="center">
-        <a href="https://github.com/Aiwe83/Second-Jupyter-Notebook"><img src="https://img.shields.io/badge/%E2%86%92%20View%20code-0D1117?style=for-the-badge&logo=github&logoColor=00F0FF&labelColor=0D1117" /></a>
+        <a href="https://github.com/Aiwe83/Second-Jupyter-Notebook"><img src="https://img.shields.io/badge/%E2%86%92%20Code-0D1117?style=for-the-badge&logo=github&logoColor=00F0FF&labelColor=0D1117" /></a>
       </p>
     </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
+    <td width="33%" valign="top">
       <a href="https://github.com/Aiwe83/First-Jupyter-Notebook">
-        <img src="https://capsule-render.vercel.app/api?type=soft&color=0:FF006E,100:00F0FF&height=80&section=header&text=First-Jupyter-Notebook&fontSize=18&fontColor=ffffff&fontAlignY=45&desc=Aprendiendo+Jupyter+%26+Python&descSize=13&descAlignY=78" width="100%" alt="First-Jupyter-Notebook" />
+        <img src="https://capsule-render.vercel.app/api?type=soft&color=0:FF006E,100:00F0FF&height=80&section=header&text=First-Jupyter-Notebook&fontSize=16&fontColor=ffffff&fontAlignY=45&desc=Aprendiendo+Jupyter+%26+Python&descSize=12&descAlignY=78" width="100%" alt="First-Jupyter-Notebook" />
       </a>
       <p align="center">
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
@@ -121,21 +120,7 @@
         <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
       </p>
       <p align="center">
-        <a href="https://github.com/Aiwe83/First-Jupyter-Notebook"><img src="https://img.shields.io/badge/%E2%86%92%20View%20code-0D1117?style=for-the-badge&logo=github&logoColor=00F0FF&labelColor=0D1117" /></a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/Aiwe83">
-        <img src="https://capsule-render.vercel.app/api?type=soft&color=0:00F0FF,50:7C3AED,100:FF006E&height=80&section=header&text=Next+project&fontSize=22&fontColor=ffffff&fontAlignY=45&desc=Coming+soon+%E2%80%A2+stay+tuned&descSize=13&descAlignY=78" width="100%" alt="coming-soon" />
-      </a>
-      <p align="center">
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
-        <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" />
-        <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" />
-        <img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white" />
-      </p>
-      <p align="center">
-        <a href="https://github.com/Aiwe83"><img src="https://img.shields.io/badge/%E2%98%85%20Follow%20for%20updates-0D1117?style=for-the-badge&logo=github&logoColor=FF006E&labelColor=0D1117" /></a>
+        <a href="https://github.com/Aiwe83/First-Jupyter-Notebook"><img src="https://img.shields.io/badge/%E2%86%92%20Code-0D1117?style=for-the-badge&logo=github&logoColor=00F0FF&labelColor=0D1117" /></a>
       </p>
     </td>
   </tr>
