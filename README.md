@@ -44,16 +44,47 @@
 
 ### 🛤️ Career journey
 
-```
-2024 ────────────────────────── 2025 ──────────────────────── 2026
-│                                │                              │
-├─ Santander                     ├─ Cajamar                     ├─ ViewNext Reskilling AI
-│  Mainframe Developer           │  Mercados Financieros        │  Python · FastAPI · LangChain
-│  COBOL · JCL · DB2 · Host      │  COBOL · Oracle              │  LangGraph · MCP · RAG
-│                                │  Seguros                      │  MongoDB · Elasticsearch
-│                                │  COBOL · Oracle               │  Docker · n8n
-└────────────────────────────────┴───────────────────────────────┴─ 🤖 AI Engineer (current)
-```
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=900&color=00F0FF&center=true&vCenter=true&width=720&lines=%F0%9F%8F%A6+Mainframe+%E2%86%92+%F0%9F%A4%96+AI+Engineer;%F0%9F%93%85+2%2B+yrs+banking+%E2%86%92+building+multi-agent+systems;%E2%9A%A1+From+COBOL+%2F+JCL+%2F+DB2+%E2%86%92+LangGraph+%2F+FastAPI+%2F+MCP" alt="career-tagline" />
+</p>
+
+<table align="center" border="0">
+  <tr>
+    <td width="33%" valign="top" align="center">
+      <img src="https://capsule-render.vercel.app/api?type=soft&color=0:00F0FF,100:0A66C2&height=88&section=header&text=2024&fontSize=34&fontColor=ffffff&fontAlignY=46&desc=Santander+%C2%B7+Mainframe+Dev&descSize=12&descAlignY=78" width="100%" alt="2024" />
+      <p align="center">
+        <img src="https://img.shields.io/badge/COBOL-005CA9?style=flat-square&logo=ibm&logoColor=white" />
+        <img src="https://img.shields.io/badge/JCL-052FAD?style=flat-square&logo=ibm&logoColor=white" />
+        <img src="https://img.shields.io/badge/DB2-CC0000?style=flat-square&logo=ibm&logoColor=white" />
+        <img src="https://img.shields.io/badge/Host-1F70C1?style=flat-square&logo=ibm&logoColor=white" />
+        <img src="https://img.shields.io/badge/MVS-052FAD?style=flat-square&logo=ibm&logoColor=white" />
+      </p>
+    </td>
+    <td width="33%" valign="top" align="center">
+      <img src="https://capsule-render.vercel.app/api?type=soft&color=0:7C3AED,100:5B21B6&height=88&section=header&text=2025&fontSize=34&fontColor=ffffff&fontAlignY=46&desc=Cajamar+%C2%B7+Mercados+%26+Seguros&descSize=12&descAlignY=78" width="100%" alt="2025" />
+      <p align="center">
+        <img src="https://img.shields.io/badge/COBOL-005CA9?style=flat-square&logo=ibm&logoColor=white" />
+        <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white" />
+        <img src="https://img.shields.io/badge/SQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
+        <img src="https://img.shields.io/badge/AS%2F400-1F70C1?style=flat-square&logo=ibm&logoColor=white" />
+      </p>
+    </td>
+    <td width="33%" valign="top" align="center">
+      <img src="https://capsule-render.vercel.app/api?type=soft&color=0:FF006E,100:00F0FF&height=88&section=header&text=2026&fontSize=34&fontColor=ffffff&fontAlignY=46&desc=ViewNext+AI+%C2%B7+AI+Engineer&descSize=12&descAlignY=78" width="100%" alt="2026" />
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+        <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square&logo=langchain&logoColor=white" />
+        <img src="https://img.shields.io/badge/MCP-FF6B35?style=flat-square" />
+        <img src="https://img.shields.io/badge/RAG-7C3AED?style=flat-square" />
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+        <img src="https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white" />
+        <img src="https://img.shields.io/badge/n8n-EA4B71?style=flat-square&logo=n8n&logoColor=white" />
+      </p>
+    </td>
+  </tr>
+</table>
 
 ---
 
@@ -66,8 +97,6 @@
   <img src="https://img.shields.io/badge/MCP-Model%20Context%20Protocol-FF6B35?style=for-the-badge" />
   <img src="https://img.shields.io/badge/RAG-Retrieval%20Augmented-7C3AED?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
-  <img src="https://img.shields.io/badge/Azure%20AI-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS%20Bedrock-FF9900?style=for-the-badge&logo=amazonwebservices&logoColor=white" />
 </p>
 
 <p align="center"><b>🐍 Backend & Data</b></p>
