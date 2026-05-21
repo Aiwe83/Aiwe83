@@ -1,12 +1,12 @@
 <!-- ░░░░░░░░░░░ HEADER BANNER ░░░░░░░░░░░ -->
 <a href="https://github.com/Aiwe83">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,50:7C3AED,100:FF006E&height=240&section=header&text=Pablo%20De%20Franchi&fontSize=68&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=Banking%20COBOL%20Developer%20%E2%86%92%20AI%20Engineer%20%C2%B7%20Zaragoza%2C%20Spain&descAlignY=58&descSize=18" width="100%" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,50:7C3AED,100:FF006E&height=240&section=header&text=Pablo%20De%20Franchi&fontSize=68&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=AI%20Engineer%20%C2%B7%20Multi-agent%20systems%20%2B%20RAG%20%C2%B7%20Zaragoza%2C%20Spain&descAlignY=58&descSize=18" width="100%" alt="header" />
 </a>
 
 <!-- ░░░░░░░░░░░ TYPING TAGLINE ░░░░░░░░░░░ -->
 <p align="center">
   <a href="https://github.com/Aiwe83">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=700&color=00F0FF&center=true&vCenter=true&width=820&lines=2%2B+years+COBOL+%2F+banking+%E2%86%92+now+building+AI+agents;Python+%E2%80%A2+FastAPI+%E2%80%A2+LangGraph+%E2%80%A2+MCP+%E2%80%A2+RAG+%E2%80%A2+Docker;Multi-agent+orchestration+%E2%80%A2+retrieval+%E2%80%A2+automation;From+mainframe+to+modern+stack.+Always+shipping." alt="typing" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=700&color=00F0FF&center=true&vCenter=true&width=820&lines=AI+Engineer+%E2%80%A2+Building+multi-agent+systems;Python+%E2%80%A2+FastAPI+%E2%80%A2+LangGraph+%E2%80%A2+MCP+%E2%80%A2+RAG+%E2%80%A2+Docker;Agent+orchestration+%E2%80%A2+retrieval+%E2%80%A2+intelligent+automation;Always+shipping.+Always+learning." alt="typing" />
   </a>
 </p>
 
@@ -25,7 +25,7 @@
 <table align="center" border="0">
   <tr>
     <td valign="middle" width="60%">
-      <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=900&color=00F0FF&background=0D111700&center=false&vCenter=true&width=560&height=280&lines=%3E+Hey%2C+I'm+Pablo+De+Franchi;%3E+2%2B+yrs+banking+mainframe+(Santander+%2F+Cajamar);%3E+COBOL+%E2%80%A2+JCL+%E2%80%A2+DB2+%E2%80%A2+Oracle+%E2%80%A2+AS400+%E2%80%A2+MVS;%3E+2026%3A+graduated+ViewNext+Reskilling+AI;%3E+Now+building+multi-agent+systems;%3E+LangGraph+%E2%80%A2+FastAPI+%E2%80%A2+RAG+%E2%80%A2+MCP;%3E+Open+to+AI+%2F+Backend+roles+%C2%B7+let's+talk" alt="about-me" />
+      <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=900&color=00F0FF&background=0D111700&center=false&vCenter=true&width=560&height=280&lines=%3E+Hey%2C+I'm+Pablo+De+Franchi;%3E+AI+Engineer+based+in+Zaragoza+%C2%B7+Spain;%3E+Building+multi-agent+systems+with+LangGraph;%3E+Stack%3A+Python+%C2%B7+FastAPI+%C2%B7+MCP+%C2%B7+RAG;%3E+Working+with+vector+DBs+%26+orchestration;%3E+Graduated+ViewNext+Reskilling+AI+2026;%3E+Background%3A+enterprise+banking+systems;%3E+Open+to+AI+%2F+Backend+roles+%C2%B7+let's+talk" alt="about-me" />
     </td>
     <td align="center" valign="middle" width="40%">
       <img src="https://raw.githubusercontent.com/Aiwe83/Aiwe83/main/assets/dev-terminal.svg" width="280" alt="terminal" />
@@ -61,7 +61,7 @@
       </p>
     </td>
     <td width="33%" valign="top" align="center">
-      <img src="https://capsule-render.vercel.app/api?type=soft&color=0:7C3AED,100:5B21B6&height=88&section=header&text=2025&fontSize=34&fontColor=ffffff&fontAlignY=46&desc=Cajamar+%C2%B7+Mercados+%26+Seguros&descSize=12&descAlignY=78" width="100%" alt="2025" />
+      <img src="https://capsule-render.vercel.app/api?type=soft&color=0:7C3AED,100:5B21B6&height=88&section=header&text=2025&fontSize=34&fontColor=ffffff&fontAlignY=46&desc=Cajamar+%C2%B7+Seguros+%2F+Mercados&descSize=12&descAlignY=78" width="100%" alt="2025" />
       <p align="center">
         <img src="https://img.shields.io/badge/COBOL-005CA9?style=flat-square&logo=ibm&logoColor=white" />
         <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white" />
