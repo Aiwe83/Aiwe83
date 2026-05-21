@@ -221,17 +221,21 @@
 ## <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="32"> GitHub stats
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=Aiwe83&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=FF006E&text_color=ffffff&cache_seconds=86400" />
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com?user=Aiwe83&theme=tokyonight&hide_border=true&background=0D1117&ring=00F0FF&fire=FF006E&currStreakLabel=00F0FF" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aiwe83&theme=tokyonight" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Aiwe83&theme=tokyonight" />
 </p>
 
 <p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aiwe83&layout=compact&langs_count=10&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=ffffff&cache_seconds=86400" />
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Aiwe83&theme=radical&utcOffset=2" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aiwe83&theme=tokyonight&exclude=html,css" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Aiwe83&theme=tokyonight&exclude=html,css" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aiwe83&theme=tokyo-night&bg_color=0D1117&hide_border=true&line=00F0FF&color=FF006E&point=7C3AED" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Aiwe83&theme=tokyonight&utcOffset=2" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aiwe83&theme=tokyo-night&bg_color=0D1117&hide_border=true&line=00F0FF&color=FF006E&point=7C3AED&area=true" />
 </p>
 
 <p align="center">
