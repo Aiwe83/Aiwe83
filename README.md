@@ -42,7 +42,7 @@
   </a>
 </p>
 
-### 🛤️ Career journey
+### <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="28"> Career journey
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=900&color=00F0FF&center=true&vCenter=true&width=720&lines=%F0%9F%8F%A6+Mainframe+%E2%86%92+%F0%9F%A4%96+AI+Engineer;%F0%9F%93%85+2%2B+yrs+banking+%E2%86%92+building+multi-agent+systems;%E2%9A%A1+From+COBOL+%2F+JCL+%2F+DB2+%E2%86%92+LangGraph+%2F+FastAPI+%2F+MCP" alt="career-tagline" />
@@ -256,10 +256,48 @@
 
 ---
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="28"> Currently
+## <img src="https://media.giphy.com/media/sULKEgDMX8pIA/giphy.gif" width="28"> On my radar
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=3000&pause=900&color=00F0FF&center=true&vCenter=true&width=820&lines=%F0%9F%A4%96+Building%3A+multi-agent+systems+with+LangGraph+%2B+MCP;%F0%9F%93%9A+Leveling+up%3A+agent+orchestration+%26+RAG+at+scale;%F0%9F%94%A7+Exploring%3A+Anthropic+Claude+API+%2B+Agent+SDK;%F0%9F%8C%8D+Based+in+Zaragoza+%C2%B7+remote-first+%C2%B7+GMT%2B2;%F0%9F%92%BC+Open+to%3A+AI%2FBackend+roles+%C2%B7+collaborations+%C2%B7+freelance;%E2%98%95+From+mainframe+to+agents.+Always+shipping." alt="currently" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=900&color=00F0FF&center=true&vCenter=true&width=720&lines=What+I+am+exploring+%2F+reading+%2F+shipping+right+now;Updated+regularly+%E2%80%94+not+the+full+stack%2C+the+frontier" alt="radar-tagline" />
+</p>
+
+<table align="center" border="0">
+  <tr>
+    <td width="33%" valign="top" align="center">
+      <img src="https://capsule-render.vercel.app/api?type=soft&color=0:FF006E,100:7C3AED&height=70&section=header&text=%F0%9F%94%AC+Experimenting&fontSize=18&fontColor=ffffff&fontAlignY=58" width="100%" alt="exp" />
+      <p align="left">
+        <code>↳ Claude Agent SDK</code><br/>
+        <code>↳ LangGraph eval frameworks</code><br/>
+        <code>↳ Hybrid search (BM25 + vectors)</code><br/>
+        <code>↳ MCP server design patterns</code>
+      </p>
+    </td>
+    <td width="33%" valign="top" align="center">
+      <img src="https://capsule-render.vercel.app/api?type=soft&color=0:7C3AED,100:00F0FF&height=70&section=header&text=%F0%9F%93%96+Reading&fontSize=18&fontColor=ffffff&fontAlignY=58" width="100%" alt="reading" />
+      <p align="left">
+        <code>↳ Designing Data-Intensive Apps</code><br/>
+        <code>↳ Anthropic Cookbook</code><br/>
+        <code>↳ Building LLM Apps (LangChain)</code><br/>
+        <code>↳ The Pragmatic Programmer</code>
+      </p>
+    </td>
+    <td width="33%" valign="top" align="center">
+      <img src="https://capsule-render.vercel.app/api?type=soft&color=0:00F0FF,100:FF006E&height=70&section=header&text=%F0%9F%9A%80+Shipping+next&fontSize=18&fontColor=ffffff&fontAlignY=58" width="100%" alt="shipping" />
+      <p align="left">
+        <code>↳ Open-source MCP server</code><br/>
+        <code>↳ Production multi-agent demo</code><br/>
+        <code>↳ Spanish AI community talks</code><br/>
+        <code>↳ Personal AI workflow toolkit</code>
+      </p>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/%F0%9F%8C%8D%20Zaragoza%20%C2%B7%20GMT%2B2-0D1117?style=for-the-badge&labelColor=0D1117&color=7C3AED" />
+  <img src="https://img.shields.io/badge/%F0%9F%92%BC%20Open%20to%20AI%20%2F%20Backend%20roles-0D1117?style=for-the-badge&labelColor=0D1117&color=00F0FF" />
+  <img src="https://img.shields.io/badge/%F0%9F%93%85%20Available%20Q3%202026-0D1117?style=for-the-badge&labelColor=0D1117&color=FF006E" />
 </p>
 
 <p align="center">
@@ -270,7 +308,7 @@
 
 <!-- ░░░░░░░░░░░ FOOTER ░░░░░░░░░░░ -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3200&pause=1200&color=FF006E&center=true&vCenter=true&width=560&lines=%E2%9C%A6+Thanks+for+scrolling+%E2%9C%A6;%E2%9A%A1+From+COBOL+to+AI+agents+%E2%80%94+let's+build+something" alt="footer-typing" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3200&pause=1200&color=FF006E&center=true&vCenter=true&width=560&lines=%E2%9C%A6+Thanks+for+scrolling+%E2%9C%A6;%E2%9A%A1+If+you+got+this+far%2C+let%27s+talk" alt="footer-typing" />
 </p>
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF006E,50:7C3AED,100:00F0FF&height=120&section=footer" width="100%" alt="footer" />
