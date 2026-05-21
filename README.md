@@ -221,25 +221,42 @@
 ## <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="32"> GitHub stats
 
 <p align="center">
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aiwe83&theme=tokyonight" />
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Aiwe83&theme=tokyonight" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=900&color=00F0FF&center=true&vCenter=true&width=720&lines=%E2%9A%A1+Live+data+%E2%80%94+pulled+from+GitHub+API+on+every+render;%F0%9F%93%88+Auto-updates+as+I+ship+new+commits;%F0%9F%92%BB+No+screenshots.+No+staging.+Real+state+only." alt="stats-tagline" />
 </p>
 
+<!-- Row 1: profile-details + streak — both same-height visual hook -->
+<p align="center">
+  <img height="195" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Aiwe83&theme=tokyonight" />
+  <img height="195" src="https://streak-stats.demolab.com?user=Aiwe83&theme=tokyonight&hide_border=true&background=1A1B27&ring=00F0FF&fire=FF006E&currStreakLabel=00F0FF&sideLabels=7C3AED&dates=7C3AED" />
+</p>
+
+<!-- Row 2: stats + productive time -->
+<p align="center">
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Aiwe83&theme=tokyonight" />
+  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Aiwe83&theme=tokyonight&utcOffset=2" />
+</p>
+
+<!-- Row 3: language donuts -->
 <p align="center">
   <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aiwe83&theme=tokyonight&exclude=html,css" />
   <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Aiwe83&theme=tokyonight&exclude=html,css" />
 </p>
 
+<!-- Activity wave — full width neon -->
 <p align="center">
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Aiwe83&theme=tokyonight&utcOffset=2" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aiwe83&theme=tokyo-night&bg_color=0D1117&hide_border=true&line=00F0FF&color=FF006E&point=7C3AED&area=true&custom_title=%E2%9A%A1%20Contribution%20wave%20%E2%80%94%20last%2031%20days" />
 </p>
 
+<!-- Trophies — animated wall -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aiwe83&theme=tokyo-night&bg_color=0D1117&hide_border=true&line=00F0FF&color=FF006E&point=7C3AED&area=true" />
+  <img src="https://github-profile-trophy.vercel.app/?username=Aiwe83&theme=tokyonight&no-bg=true&no-frame=true&margin-w=10&margin-h=10&column=7&rank=-C,-B" alt="trophies" />
 </p>
 
+<!-- Live counters -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Aiwe83&theme=tokyonight&no-bg=true&no-frame=true&margin-w=8&margin-h=8&column=7" alt="trophies" />
+  <img src="https://img.shields.io/github/stars/Aiwe83?style=for-the-badge&logo=apachespark&logoColor=FF006E&labelColor=0D1117&color=0D1117&label=%E2%98%85%20Stars" />
+  <img src="https://img.shields.io/github/followers/Aiwe83?style=for-the-badge&logo=github&logoColor=00F0FF&labelColor=0D1117&color=0D1117&label=%E2%98%85%20Followers" />
+  <img src="https://komarev.com/ghpvc/?username=Aiwe83&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS" />
 </p>
 
 ---
