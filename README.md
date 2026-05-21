@@ -236,10 +236,9 @@
   <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Aiwe83&theme=tokyonight&utcOffset=2" />
 </p>
 
-<!-- Row 3: language donuts -->
+<!-- Row 3: language breakdown — compact bars (no donut confusion between blue langs) -->
 <p align="center">
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Aiwe83&theme=tokyonight&exclude=html,css" />
-  <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Aiwe83&theme=tokyonight&exclude=html,css" />
+  <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aiwe83&layout=compact&langs_count=10&hide=html,css&theme=radical&hide_border=true&bg_color=1A1B27&title_color=00F0FF&text_color=ffffff&icon_color=FF006E&card_width=460" />
 </p>
 
 <!-- Activity wave — full width neon -->
