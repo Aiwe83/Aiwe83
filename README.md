@@ -77,18 +77,14 @@
         <a href="https://github.com/Aiwe83/finanzas-hogar"><img src="https://img.shields.io/badge/%E2%86%92%20Code-0D1117?style=for-the-badge&logo=github&logoColor=00F0FF&labelColor=0D1117" /></a>
       </p>
     </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/Aiwe83/Skills-Claude">
-        <img src="https://capsule-render.vercel.app/api?type=soft&color=0:D97757,100:7C3AED&height=90&section=header&text=Skills-Claude&fontSize=22&fontColor=ffffff&fontAlignY=42&desc=Claude+Code+skills+%2B+MCP+servers+backup&descSize=11&descAlignY=78" width="100%" alt="Skills-Claude" />
-      </a>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white" />
-        <img src="https://img.shields.io/badge/MCP-FF6B35?style=flat-square" />
-        <img src="https://img.shields.io/badge/PowerShell-5391FE?style=flat-square&logo=powershell&logoColor=white" />
-        <img src="https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnubash&logoColor=white" />
+    <td width="50%" valign="top" align="center">
+      <img src="https://capsule-render.vercel.app/api?type=soft&color=0:7C3AED,100:00F0FF&height=90&section=header&text=More+coming+soon&fontSize=22&fontColor=ffffff&fontAlignY=42&desc=Open-source+MCP+server+%2B+multi-agent+demos&descSize=11&descAlignY=78" width="100%" alt="more-soon" />
+      <p align="center" style="margin-top: 10px;">
+        <img src="https://img.shields.io/badge/%F0%9F%9A%A7%20In%20development-FF006E?style=flat-square&labelColor=0D1117" />
+        <img src="https://img.shields.io/badge/%E2%9A%A1%20Q3%202026-7C3AED?style=flat-square&labelColor=0D1117" />
       </p>
       <p align="center">
-        <a href="https://github.com/Aiwe83/Skills-Claude"><img src="https://img.shields.io/badge/%E2%86%92%20Code-0D1117?style=for-the-badge&logo=github&logoColor=D97757&labelColor=0D1117" /></a>
+        <a href="https://github.com/Aiwe83?tab=repositories"><img src="https://img.shields.io/badge/%E2%86%92%20See%20all%20repos-0D1117?style=for-the-badge&logo=github&logoColor=00F0FF&labelColor=0D1117" /></a>
       </p>
     </td>
   </tr>
