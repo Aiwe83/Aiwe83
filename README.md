@@ -42,7 +42,7 @@
   </a>
 </p>
 
-### <img src="https://media.giphy.com/media/3oKIPEqDGUULpEU0aQ/giphy.gif" width="28"> Career journey
+### <img src="https://media.giphy.com/media/coxXq5cS8jyHvc4tyN/giphy.gif" width="28"> Career journey
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=3000&pause=900&color=00F0FF&center=true&vCenter=true&width=720&lines=%F0%9F%8F%A6+Mainframe+%E2%86%92+%F0%9F%A4%96+AI+Engineer;%F0%9F%93%85+2%2B+yrs+banking+%E2%86%92+building+multi-agent+systems;%E2%9A%A1+From+COBOL+%2F+JCL+%2F+DB2+%E2%86%92+LangGraph+%2F+FastAPI+%2F+MCP" alt="career-tagline" />
