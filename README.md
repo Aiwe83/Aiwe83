@@ -236,11 +236,6 @@
   <img height="180" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Aiwe83&theme=tokyonight&utcOffset=2" />
 </p>
 
-<!-- Row 3: language breakdown — compact bars (no donut confusion between blue langs) -->
-<p align="center">
-  <img height="195" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aiwe83&layout=compact&langs_count=10&hide=html,css&theme=radical&hide_border=true&bg_color=1A1B27&title_color=00F0FF&text_color=ffffff&icon_color=FF006E&card_width=460" />
-</p>
-
 <!-- Activity wave — full width neon -->
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aiwe83&theme=tokyo-night&bg_color=0D1117&hide_border=true&line=00F0FF&color=FF006E&point=7C3AED&area=true&custom_title=%E2%9A%A1%20Contribution%20wave%20%E2%80%94%20last%2031%20days" />
@@ -257,6 +252,44 @@
   <img src="https://img.shields.io/github/followers/Aiwe83?style=for-the-badge&logo=github&logoColor=00F0FF&labelColor=0D1117&color=0D1117&label=%E2%98%85%20Followers" />
   <img src="https://komarev.com/ghpvc/?username=Aiwe83&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS" />
 </p>
+
+---
+
+## <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="28"> Code DNA
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=900&color=FF006E&center=true&vCenter=true&width=720&lines=%F0%9F%A7%AC+Real+GitHub+language+share+%2B+self-rated+proficiency;%E2%9A%A1+Updated+with+every+push+%E2%80%94+no+manual+tracking" alt="dna-tagline" />
+</p>
+
+<table align="center" border="0">
+  <tr>
+    <td width="50%" valign="top" align="center">
+      <img src="https://capsule-render.vercel.app/api?type=soft&color=0:00F0FF,100:7C3AED&height=60&section=header&text=%F0%9F%93%8A+Live+share+%C2%B7+GitHub+API&fontSize=15&fontColor=ffffff&fontAlignY=58" width="100%" alt="live-langs" />
+      <img height="220" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aiwe83&layout=donut&langs_count=8&hide=html,css&theme=radical&hide_border=true&bg_color=1A1B27&title_color=00F0FF&text_color=ffffff" />
+    </td>
+    <td width="50%" valign="top" align="center">
+      <img src="https://capsule-render.vercel.app/api?type=soft&color=0:FF006E,100:00F0FF&height=60&section=header&text=%F0%9F%8E%AF+Self-rated+proficiency&fontSize=15&fontColor=ffffff&fontAlignY=58" width="100%" alt="self-rated" />
+      <br/>
+      <img src="https://progress-bar.xyz/100/?title=Python&width=300&color=00F0FF&suffix=%25" />
+      <br/>
+      <img src="https://progress-bar.xyz/95/?title=FastAPI&width=300&color=009688&suffix=%25" />
+      <br/>
+      <img src="https://progress-bar.xyz/90/?title=Git&width=300&color=F05032&suffix=%25" />
+      <br/>
+      <img src="https://progress-bar.xyz/85/?title=COBOL&width=300&color=005CA9&suffix=%25" />
+      <br/>
+      <img src="https://progress-bar.xyz/80/?title=Docker&width=300&color=2496ED&suffix=%25" />
+      <br/>
+      <img src="https://progress-bar.xyz/80/?title=LangGraph&width=300&color=7C3AED&suffix=%25" />
+      <br/>
+      <img src="https://progress-bar.xyz/75/?title=SQL&width=300&color=336791&suffix=%25" />
+      <br/>
+      <img src="https://progress-bar.xyz/70/?title=MongoDB&width=300&color=47A248&suffix=%25" />
+      <br/>
+      <img src="https://progress-bar.xyz/65/?title=Elastic&width=300&color=005571&suffix=%25" />
+    </td>
+  </tr>
+</table>
 
 ---
 
