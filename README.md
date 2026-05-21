@@ -218,7 +218,7 @@
 
 ---
 
-## <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="32"> GitHub stats
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Chart%20Increasing.png" width="36" /> GitHub stats
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=900&color=00F0FF&center=true&vCenter=true&width=720&lines=%E2%9A%A1+Live+data+%E2%80%94+pulled+from+GitHub+API+on+every+render;%F0%9F%93%88+Auto-updates+as+I+ship+new+commits;%F0%9F%92%BB+No+screenshots.+No+staging.+Real+state+only." alt="stats-tagline" />
