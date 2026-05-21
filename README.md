@@ -79,7 +79,7 @@
     </td>
     <td width="50%" valign="top">
       <a href="https://github.com/Aiwe83/Skills-Claude">
-        <img src="https://capsule-render.vercel.app/api?type=soft&color=0:D97757,100:7C3AED&height=90&section=header&text=Skills-Claude&fontSize=22&fontColor=ffffff&fontAlignY=42&desc=Claude+Code+skills+%26+MCP+servers+backup&descSize=11&descAlignY=78" width="100%" alt="Skills-Claude" />
+        <img src="https://capsule-render.vercel.app/api?type=soft&color=0:D97757,100:7C3AED&height=90&section=header&text=Skills-Claude&fontSize=22&fontColor=ffffff&fontAlignY=42&desc=Claude+Code+skills+%2B+MCP+servers+backup&descSize=11&descAlignY=78" width="100%" alt="Skills-Claude" />
       </a>
       <p align="center">
         <img src="https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white" />
