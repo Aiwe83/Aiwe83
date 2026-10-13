@@ -6,7 +6,7 @@
 <!-- ░░░░░░░░░░░ TYPING TAGLINE ░░░░░░░░░░░ -->
 <p align="center">
   <a href="https://github.com/Aiwe83">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=700&color=00F0FF&center=true&vCenter=true&width=820&lines=Web+Application+Development+Technician;Python+%E2%80%A2+FastAPI+%E2%80%A2+LangGraph+%E2%80%A2+MCP+%E2%80%A2+Docker;AI-applied+backend+systems+%E2%80%A2+agent+orchestration;Always+shipping.+Always+learning." alt="typing" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=700&color=00F0FF&center=true&vCenter=true&width=820&lines=Web+Application+Development+Technician;Python+%E2%80%A2+FastAPI+%E2%80%A2+Jira+Forge+%E2%80%A2+LangGraph+%E2%80%A2+MCP+%E2%80%A2+Docker;AI-applied+backend+systems+%E2%80%A2+Atlassian+workflow+apps;Always+shipping.+Always+learning." alt="typing" />
   </a>
 </p>
 
@@ -15,7 +15,8 @@
   <a href="https://www.linkedin.com/in/pablo-de-franchi-3259573b0"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=pablo.defranchi@gmail.com" target="_blank"><img src="https://img.shields.io/badge/pablo.defranchi%40gmail.com-FF006E?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.google.com/maps/place/Zaragoza,+Spain/"><img src="https://img.shields.io/badge/Zaragoza,%20ES-7C3AED?style=for-the-badge&logo=googlemaps&logoColor=white" /></a>
-  <img src="https://img.shields.io/badge/Profile-Active-00F0FF?style=for-the-badge&labelColor=0D1117" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Aiwe83.Aiwe83&left_text=Profile%20views&left_color=0D1117&right_color=00F0FF" />
+  <img src="https://img.shields.io/badge/Jira%20Forge-0052CC?style=for-the-badge&logo=atlassian&logoColor=white" />
 </p>
 
 ---
@@ -107,8 +108,13 @@
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
   <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
   <img src="https://img.shields.io/badge/MCP-Model%20Context%20Protocol-FF6B35?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/RAG-Retrieval%20Augmented-7C3AED?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=anthropic&logoColor=white" />
+</p>
+
+<p align="center"><b>Atlassian & Workflow Apps</b></p>
+<p align="center">
+  <img src="https://img.shields.io/badge/Atlassian-0052CC?style=for-the-badge&logo=atlassian&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jira%20Forge-172B4D?style=for-the-badge&logo=jira&logoColor=white" />
+  <img src="https://img.shields.io/badge/Jira%20Automation-2684FF?style=for-the-badge&logo=jira&logoColor=white" />
 </p>
 
 <p align="center"><b>🐍 Backend & Data</b></p>
@@ -159,7 +165,7 @@
 <table align="center" border="0">
   <tr>
     <td valign="middle" width="60%">
-      <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=900&color=00F0FF&background=0D111700&center=false&vCenter=true&width=560&height=280&lines=%3E+Hey%2C+I'm+Pablo+De+Franchi;%3E+Web+Application+Development+Technician;%3E+Focused+on+AI-applied+backend+systems;%3E+Building+multi-agent+systems+with+LangGraph;%3E+Stack%3A+Python+%C2%B7+FastAPI+%C2%B7+MCP+%C2%B7+RAG;%3E+Working+with+vector+DBs+%26+orchestration;%3E+Background%3A+enterprise+banking+systems;%3E+Open+to+AI+%2F+Backend+roles+%C2%B7+let's+talk" alt="about-me" />
+      <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=900&color=00F0FF&background=0D111700&center=false&vCenter=true&width=560&height=280&lines=%3E+Hey%2C+I'm+Pablo+De+Franchi;%3E+Web+Application+Development+Technician;%3E+Focused+on+AI-applied+backend+systems;%3E+Building+workflow+apps+with+Jira+Forge;%3E+Stack%3A+Python+%C2%B7+FastAPI+%C2%B7+LangGraph+%C2%B7+MCP;%3E+Working+with+vector+DBs+%26+orchestration;%3E+Background%3A+enterprise+banking+systems;%3E+Open+to+AI+%2F+Backend+roles+%C2%B7+let's+talk" alt="about-me" />
     </td>
     <td align="center" valign="middle" width="40%">
       <img src="https://raw.githubusercontent.com/Aiwe83/Aiwe83/main/assets/dev-terminal.svg" width="280" alt="terminal" />
@@ -300,7 +306,7 @@
 <p align="center">
   <img src="https://img.shields.io/github/stars/Aiwe83?style=for-the-badge&logo=apachespark&logoColor=FF006E&labelColor=0D1117&color=0D1117&label=%E2%98%85%20Stars" />
   <img src="https://img.shields.io/github/followers/Aiwe83?style=for-the-badge&logo=github&logoColor=00F0FF&labelColor=0D1117&color=0D1117&label=%E2%98%85%20Followers" />
-  <img src="https://img.shields.io/badge/Profile-Active-7C3AED?style=for-the-badge&labelColor=0D1117" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Aiwe83.Aiwe83.profile&left_text=Profile%20views&left_color=0D1117&right_color=7C3AED" />
 </p>
 
 ---
