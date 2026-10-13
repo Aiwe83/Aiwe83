@@ -320,25 +320,53 @@
     <td width="50%" valign="top" align="center">
       <img src="https://capsule-render.vercel.app/api?type=soft&color=0:FF006E,100:00F0FF&height=60&section=header&text=%F0%9F%8E%AF+Self-rated+proficiency&fontSize=15&fontColor=ffffff&fontAlignY=58" width="100%" alt="self-rated" />
       <br/>
-      <p align="center">
-        <img src="https://img.shields.io/badge/Python-100%25-00F0FF?style=for-the-badge&labelColor=0D1117" />
-        <br/>
-        <img src="https://img.shields.io/badge/FastAPI-95%25-009688?style=for-the-badge&labelColor=0D1117" />
-        <br/>
-        <img src="https://img.shields.io/badge/Git-90%25-F05032?style=for-the-badge&labelColor=0D1117&logo=git&logoColor=white" />
-        <br/>
-        <img src="https://img.shields.io/badge/COBOL-85%25-005CA9?style=for-the-badge&labelColor=0D1117" />
-        <br/>
-        <img src="https://img.shields.io/badge/Docker-80%25-2496ED?style=for-the-badge&labelColor=0D1117&logo=docker&logoColor=white" />
-        <br/>
-        <img src="https://img.shields.io/badge/LangGraph-80%25-7C3AED?style=for-the-badge&labelColor=0D1117" />
-        <br/>
-        <img src="https://img.shields.io/badge/SQL-75%25-336791?style=for-the-badge&labelColor=0D1117" />
-        <br/>
-        <img src="https://img.shields.io/badge/MongoDB-70%25-47A248?style=for-the-badge&labelColor=0D1117&logo=mongodb&logoColor=white" />
-        <br/>
-        <img src="https://img.shields.io/badge/Elastic-65%25-005571?style=for-the-badge&labelColor=0D1117&logo=elastic&logoColor=white" />
-      </p>
+      <table width="100%">
+        <tr>
+          <td width="24%"><b>Python</b></td>
+          <td width="58%"><code>████████████████████</code></td>
+          <td align="right"><b>100%</b></td>
+        </tr>
+        <tr>
+          <td><b>FastAPI</b></td>
+          <td><code>███████████████████░</code></td>
+          <td align="right"><b>95%</b></td>
+        </tr>
+        <tr>
+          <td><b>Git</b></td>
+          <td><code>██████████████████░░</code></td>
+          <td align="right"><b>90%</b></td>
+        </tr>
+        <tr>
+          <td><b>COBOL</b></td>
+          <td><code>█████████████████░░░</code></td>
+          <td align="right"><b>85%</b></td>
+        </tr>
+        <tr>
+          <td><b>Docker</b></td>
+          <td><code>████████████████░░░░</code></td>
+          <td align="right"><b>80%</b></td>
+        </tr>
+        <tr>
+          <td><b>LangGraph</b></td>
+          <td><code>████████████████░░░░</code></td>
+          <td align="right"><b>80%</b></td>
+        </tr>
+        <tr>
+          <td><b>SQL</b></td>
+          <td><code>███████████████░░░░░</code></td>
+          <td align="right"><b>75%</b></td>
+        </tr>
+        <tr>
+          <td><b>MongoDB</b></td>
+          <td><code>██████████████░░░░░░</code></td>
+          <td align="right"><b>70%</b></td>
+        </tr>
+        <tr>
+          <td><b>Elastic</b></td>
+          <td><code>█████████████░░░░░░░</code></td>
+          <td align="right"><b>65%</b></td>
+        </tr>
+      </table>
     </td>
   </tr>
 </table>
