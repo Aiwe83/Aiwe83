@@ -320,23 +320,25 @@
     <td width="50%" valign="top" align="center">
       <img src="https://capsule-render.vercel.app/api?type=soft&color=0:FF006E,100:00F0FF&height=60&section=header&text=%F0%9F%8E%AF+Self-rated+proficiency&fontSize=15&fontColor=ffffff&fontAlignY=58" width="100%" alt="self-rated" />
       <br/>
-      <img src="https://progress-bar.xyz/100/?title=Python&width=300&color=00F0FF&suffix=%25" />
-      <br/>
-      <img src="https://progress-bar.xyz/95/?title=FastAPI&width=300&color=009688&suffix=%25" />
-      <br/>
-      <img src="https://progress-bar.xyz/90/?title=Git&width=300&color=F05032&suffix=%25" />
-      <br/>
-      <img src="https://progress-bar.xyz/85/?title=COBOL&width=300&color=005CA9&suffix=%25" />
-      <br/>
-      <img src="https://progress-bar.xyz/80/?title=Docker&width=300&color=2496ED&suffix=%25" />
-      <br/>
-      <img src="https://progress-bar.xyz/80/?title=LangGraph&width=300&color=7C3AED&suffix=%25" />
-      <br/>
-      <img src="https://progress-bar.xyz/75/?title=SQL&width=300&color=336791&suffix=%25" />
-      <br/>
-      <img src="https://progress-bar.xyz/70/?title=MongoDB&width=300&color=47A248&suffix=%25" />
-      <br/>
-      <img src="https://progress-bar.xyz/65/?title=Elastic&width=300&color=005571&suffix=%25" />
+      <p align="center">
+        <img src="https://img.shields.io/badge/Python-100%25-00F0FF?style=for-the-badge&labelColor=0D1117" />
+        <br/>
+        <img src="https://img.shields.io/badge/FastAPI-95%25-009688?style=for-the-badge&labelColor=0D1117" />
+        <br/>
+        <img src="https://img.shields.io/badge/Git-90%25-F05032?style=for-the-badge&labelColor=0D1117&logo=git&logoColor=white" />
+        <br/>
+        <img src="https://img.shields.io/badge/COBOL-85%25-005CA9?style=for-the-badge&labelColor=0D1117" />
+        <br/>
+        <img src="https://img.shields.io/badge/Docker-80%25-2496ED?style=for-the-badge&labelColor=0D1117&logo=docker&logoColor=white" />
+        <br/>
+        <img src="https://img.shields.io/badge/LangGraph-80%25-7C3AED?style=for-the-badge&labelColor=0D1117" />
+        <br/>
+        <img src="https://img.shields.io/badge/SQL-75%25-336791?style=for-the-badge&labelColor=0D1117" />
+        <br/>
+        <img src="https://img.shields.io/badge/MongoDB-70%25-47A248?style=for-the-badge&labelColor=0D1117&logo=mongodb&logoColor=white" />
+        <br/>
+        <img src="https://img.shields.io/badge/Elastic-65%25-005571?style=for-the-badge&labelColor=0D1117&logo=elastic&logoColor=white" />
+      </p>
     </td>
   </tr>
 </table>
