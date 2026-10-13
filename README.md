@@ -78,13 +78,21 @@
       </p>
     </td>
     <td width="50%" valign="top" align="center">
-      <img src="https://capsule-render.vercel.app/api?type=soft&color=0:7C3AED,100:00F0FF&height=90&section=header&text=More+coming+soon&fontSize=22&fontColor=ffffff&fontAlignY=42&desc=Open-source+MCP+server+%2B+multi-agent+demos&descSize=11&descAlignY=78" width="100%" alt="more-soon" />
-      <p align="center" style="margin-top: 10px;">
-        <img src="https://img.shields.io/badge/%F0%9F%9A%A7%20In%20development-FF006E?style=flat-square&labelColor=0D1117" />
-        <img src="https://img.shields.io/badge/%E2%9A%A1%20Q3%202026-7C3AED?style=flat-square&labelColor=0D1117" />
+      <a href="https://github.com/Aiwe83/itsm-ticketing-agents-flujo-completo">
+        <img src="https://capsule-render.vercel.app/api?type=soft&color=0:7C3AED,100:00F0FF&height=90&section=header&text=itsm-ticketing-agents&fontSize=22&fontColor=ffffff&fontAlignY=42&desc=Jira+Forge+%C2%B7+ITSM+agents+%C2%B7+integration+service+%C2%B7+LLM+runtime&descSize=10&descAlignY=78" width="100%" alt="itsm-ticketing-agents" />
+      </a>
+      <p align="center">
+        <img src="https://img.shields.io/badge/Jira%20Forge-0052CC?style=flat-square&logo=atlassian&logoColor=white" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" />
+        <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+        <img src="https://img.shields.io/badge/RAG-7C3AED?style=flat-square" />
+        <img src="https://img.shields.io/badge/LLM%20Agents-FF006E?style=flat-square" />
       </p>
       <p align="center">
-        <a href="https://github.com/Aiwe83?tab=repositories"><img src="https://img.shields.io/badge/%E2%86%92%20See%20all%20repos-0D1117?style=for-the-badge&logo=github&logoColor=00F0FF&labelColor=0D1117" /></a>
+        <a href="https://github.com/Aiwe83/itsm-ticketing-agents-flujo-completo"><img src="https://img.shields.io/badge/%E2%86%92%20Code-0D1117?style=for-the-badge&logo=github&logoColor=00F0FF&labelColor=0D1117" /></a>
       </p>
     </td>
   </tr>
