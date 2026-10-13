@@ -1,6 +1,6 @@
 <!-- ░░░░░░░░░░░ HEADER BANNER ░░░░░░░░░░░ -->
 <a href="https://github.com/Aiwe83">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,50:7C3AED,100:FF006E&height=240&section=header&text=Pablo%20De%20Franchi&fontSize=68&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=AI%20Engineer%20%C2%B7%20Multi-agent%20systems%20%2B%20RAG%20%C2%B7%20Zaragoza%2C%20Spain&descAlignY=58&descSize=18" width="100%" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,50:7C3AED,100:FF006E&height=240&section=header&text=Pablo%20De%20Franchi&fontSize=68&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=Web%20Application%20Development%20Technician%20%C2%B7%20AI-applied%20systems%20%2B%20RAG%20%C2%B7%20Zaragoza%2C%20Spain&descAlignY=58&descSize=18" width="100%" alt="header" />
 </a>
 
 <!-- ░░░░░░░░░░░ TYPING TAGLINE ░░░░░░░░░░░ -->
@@ -159,7 +159,7 @@
 <table align="center" border="0">
   <tr>
     <td valign="middle" width="60%">
-      <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=900&color=00F0FF&background=0D111700&center=false&vCenter=true&width=560&height=280&lines=%3E+Hey%2C+I'm+Pablo+De+Franchi;%3E+AI+Engineer+based+in+Zaragoza+%C2%B7+Spain;%3E+Building+multi-agent+systems+with+LangGraph;%3E+Stack%3A+Python+%C2%B7+FastAPI+%C2%B7+MCP+%C2%B7+RAG;%3E+Working+with+vector+DBs+%26+orchestration;%3E+Graduated+ViewNext+Reskilling+AI+2026;%3E+Background%3A+enterprise+banking+systems;%3E+Open+to+AI+%2F+Backend+roles+%C2%B7+let's+talk" alt="about-me" />
+      <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=900&color=00F0FF&background=0D111700&center=false&vCenter=true&width=560&height=280&lines=%3E+Hey%2C+I'm+Pablo+De+Franchi;%3E+Web+Application+Development+Technician;%3E+Focused+on+AI-applied+backend+systems;%3E+Building+multi-agent+systems+with+LangGraph;%3E+Stack%3A+Python+%C2%B7+FastAPI+%C2%B7+MCP+%C2%B7+RAG;%3E+Working+with+vector+DBs+%26+orchestration;%3E+Background%3A+enterprise+banking+systems;%3E+Open+to+AI+%2F+Backend+roles+%C2%B7+let's+talk" alt="about-me" />
     </td>
     <td align="center" valign="middle" width="40%">
       <img src="https://raw.githubusercontent.com/Aiwe83/Aiwe83/main/assets/dev-terminal.svg" width="280" alt="terminal" />
