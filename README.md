@@ -1,12 +1,12 @@
 <!-- ░░░░░░░░░░░ HEADER BANNER ░░░░░░░░░░░ -->
 <a href="https://github.com/Aiwe83">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,50:7C3AED,100:FF006E&height=240&section=header&text=Pablo%20De%20Franchi&fontSize=68&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=Web%20Application%20Development%20Technician%20%C2%B7%20AI-applied%20systems%20%2B%20RAG%20%C2%B7%20Zaragoza%2C%20Spain&descAlignY=58&descSize=18" width="100%" alt="header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F0FF,50:7C3AED,100:FF006E&height=240&section=header&text=Pablo%20De%20Franchi&fontSize=68&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=Web%20Application%20Development%20Technician%20%C2%B7%20AI-applied%20backend%20systems%20%C2%B7%20Zaragoza%2C%20Spain&descAlignY=58&descSize=18" width="100%" alt="header" />
 </a>
 
 <!-- ░░░░░░░░░░░ TYPING TAGLINE ░░░░░░░░░░░ -->
 <p align="center">
   <a href="https://github.com/Aiwe83">
-    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=700&color=00F0FF&center=true&vCenter=true&width=820&lines=AI+Engineer+%E2%80%A2+Building+multi-agent+systems;Python+%E2%80%A2+FastAPI+%E2%80%A2+LangGraph+%E2%80%A2+MCP+%E2%80%A2+RAG+%E2%80%A2+Docker;Agent+orchestration+%E2%80%A2+retrieval+%E2%80%A2+intelligent+automation;Always+shipping.+Always+learning." alt="typing" />
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=700&color=00F0FF&center=true&vCenter=true&width=820&lines=Web+Application+Development+Technician;Python+%E2%80%A2+FastAPI+%E2%80%A2+LangGraph+%E2%80%A2+MCP+%E2%80%A2+Docker;AI-applied+backend+systems+%E2%80%A2+agent+orchestration;Always+shipping.+Always+learning." alt="typing" />
   </a>
 </p>
 
