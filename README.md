@@ -297,9 +297,11 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Aiwe83&theme=tokyo-night&bg_color=0D1117&hide_border=true&line=00F0FF&color=FF006E&point=7C3AED&area=true&custom_title=%E2%9A%A1%20Contribution%20wave%20%E2%80%94%20last%2031%20days" />
 </p>
 
-<!-- Trophies — animated wall -->
+<!-- Highlights -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Aiwe83&theme=tokyonight&no-bg=true&no-frame=true&margin-w=10&margin-h=10&column=7&rank=-C,-B" alt="trophies" />
+  <img src="https://img.shields.io/badge/Focus-AI--applied%20backend-00F0FF?style=for-the-badge&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/Platform-Jira%20Forge-0052CC?style=for-the-badge&logo=atlassian&logoColor=white&labelColor=0D1117" />
+  <img src="https://img.shields.io/badge/Delivery-Production%20workflows-FF006E?style=for-the-badge&labelColor=0D1117" />
 </p>
 
 <!-- Live counters -->
