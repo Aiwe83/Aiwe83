@@ -320,53 +320,7 @@
     <td width="50%" valign="top" align="center">
       <img src="https://capsule-render.vercel.app/api?type=soft&color=0:FF006E,100:00F0FF&height=60&section=header&text=%F0%9F%8E%AF+Self-rated+proficiency&fontSize=15&fontColor=ffffff&fontAlignY=58" width="100%" alt="self-rated" />
       <br/>
-      <table width="100%">
-        <tr>
-          <td width="24%"><b>Python</b></td>
-          <td width="58%"><code>████████████████████</code></td>
-          <td align="right"><b>100%</b></td>
-        </tr>
-        <tr>
-          <td><b>FastAPI</b></td>
-          <td><code>███████████████████░</code></td>
-          <td align="right"><b>95%</b></td>
-        </tr>
-        <tr>
-          <td><b>Git</b></td>
-          <td><code>██████████████████░░</code></td>
-          <td align="right"><b>90%</b></td>
-        </tr>
-        <tr>
-          <td><b>COBOL</b></td>
-          <td><code>█████████████████░░░</code></td>
-          <td align="right"><b>85%</b></td>
-        </tr>
-        <tr>
-          <td><b>Docker</b></td>
-          <td><code>████████████████░░░░</code></td>
-          <td align="right"><b>80%</b></td>
-        </tr>
-        <tr>
-          <td><b>LangGraph</b></td>
-          <td><code>████████████████░░░░</code></td>
-          <td align="right"><b>80%</b></td>
-        </tr>
-        <tr>
-          <td><b>SQL</b></td>
-          <td><code>███████████████░░░░░</code></td>
-          <td align="right"><b>75%</b></td>
-        </tr>
-        <tr>
-          <td><b>MongoDB</b></td>
-          <td><code>██████████████░░░░░░</code></td>
-          <td align="right"><b>70%</b></td>
-        </tr>
-        <tr>
-          <td><b>Elastic</b></td>
-          <td><code>█████████████░░░░░░░</code></td>
-          <td align="right"><b>65%</b></td>
-        </tr>
-      </table>
+      <img src="https://raw.githubusercontent.com/Aiwe83/Aiwe83/main/assets/proficiency.svg" width="100%" alt="self-rated proficiency" />
     </td>
   </tr>
 </table>
