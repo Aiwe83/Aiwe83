@@ -15,7 +15,7 @@
   <a href="https://www.linkedin.com/in/pablo-de-franchi-3259573b0"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://mail.google.com/mail/?view=cm&fs=1&to=pablo.defranchi@gmail.com" target="_blank"><img src="https://img.shields.io/badge/pablo.defranchi%40gmail.com-FF006E?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.google.com/maps/place/Zaragoza,+Spain/"><img src="https://img.shields.io/badge/Zaragoza,%20ES-7C3AED?style=for-the-badge&logo=googlemaps&logoColor=white" /></a>
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Aiwe83.Aiwe83&left_text=Profile%20views&left_color=7C3AED&right_color=00F0FF" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Aiwe83.Aiwe83&left_text=Profile%20views&left_color=%237C3AED&right_color=%2300F0FF" />
 </p>
 
 ---
@@ -307,7 +307,7 @@
 <p align="center">
   <img src="https://img.shields.io/github/stars/Aiwe83?style=for-the-badge&logo=apachespark&logoColor=FF006E&labelColor=0D1117&color=0D1117&label=%E2%98%85%20Stars" />
   <img src="https://img.shields.io/github/followers/Aiwe83?style=for-the-badge&logo=github&logoColor=00F0FF&labelColor=0D1117&color=0D1117&label=%E2%98%85%20Followers" />
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Aiwe83.Aiwe83.profile&left_text=Profile%20views&left_color=FF006E&right_color=7C3AED" />
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=Aiwe83.Aiwe83.profile&left_text=Profile%20views&left_color=%23FF006E&right_color=%237C3AED" />
 </p>
 
 ---
